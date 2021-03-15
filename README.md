@@ -4,16 +4,16 @@ I´m currently a student, studying computer science looking for opportunity to w
 
 UCL - Vejle, Datamatiker (Computer Science) 💻
 
-- 🔭 I’m currently working on ... everything that gives me experience
-- 🌱 I’m currently learning ... asp.net core, mvc patteren
-- 🤔 I’m looking for help with ... asp.net core
-- 📫 How to reach me: ... you dont
-- ⚡ Fun fact: ... im not fun
-
 "Skills":
 C#(✅)
-ASP.NET 🤔
-JavaScript (✅)
+ASP.NET ✅
+Entity Framework ✅
+JavaScript && Typescript✅
+NodeJS ✅
 HTML (✅)
-CSS (✅)
+CSS && saas && stylus (✅)
 SQL (✅)
+Server management:
+Docker 🤔
+Hyper-V 🤔
+Linux Terminal 🤔
