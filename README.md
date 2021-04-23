@@ -19,7 +19,7 @@ UCL - Vejle, Datamatiker (Computer Science) 💻
 -->Microserverices 🤔  
 
 Server management:  
--->Docker ✅  
+-->Docker (✅)    
 -->Hyper-V 🤔  
 -->Linux Terminal 🤔  
 
