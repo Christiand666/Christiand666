@@ -4,6 +4,8 @@ Stuff that im currently working with or learning:
 
 Stuff that I have worked with:
  - C# 
+ - Linux Terminal & Unix Tools
+ - Docker & Docker-Compose & Docker Swarm
  - Wpf - Windows Forms
  - ASP.NET
  - Entity Framework
@@ -17,8 +19,6 @@ Stuff that I have worked with:
  - (Blazor)
  - (React)
  - Html-css-sass
- - Linux Terminal & Unix Tools
- - Docker & Docker-Compose & Docker Swarm
  - Sql - MSSQL/MySql - Stored Procedures
  - MongoDB - RavenDB
  - Python - deeb learning
