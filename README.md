@@ -21,3 +21,4 @@ Stuff that I have worked with:
  - Docker & Docker-Compose & Docker Swarm
  - Sql - MSSQL/MySql - Stored Procedures
  - MongoDB - RavenDB
+ - Python - deeb learning
