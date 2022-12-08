@@ -1,6 +1,12 @@
 Stuff that im currently working with or learning:
  - kubernetes
  - Microservices
+ - Messages - rabbitmq
+ - Java 
+ - JPA
+ - Pipelines
+ - jenkins
+ - hexagonal architecture
 
 Stuff that I have worked with:
  - C# 
