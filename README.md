@@ -1,15 +1,18 @@
 Stuff that im currently working with or learning:
- - kubernetes
  - Microservices
  - Messages - rabbitmq
+ - Saga patten
+ 
+
+Stuff that I have worked with:
+ - C# 
  - Java 
  - JPA
  - Pipelines
  - jenkins
+ - kubernetes
+ - Openshift
  - hexagonal architecture
-
-Stuff that I have worked with:
- - C# 
  - Linux Terminal & Unix Tools
  - Docker & Docker-Compose & Docker Swarm
  - Wpf - Windows Forms
