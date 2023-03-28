@@ -1,7 +1,7 @@
 Stuff that im currently working with or learning:
  - Microservices
  - Messages - rabbitmq
- - Saga patten
+ - Saga pattern
  
 
 Stuff that I have worked with:
